@@ -1,6 +1,25 @@
 
 <body>
   <h1>API Documentation</h1>
+  <div class="api-section">
+    <h2>Initial Setup</h2>
+    <p>To get started with the backend project, follow these steps:</p>
+    <ol>
+      <li>Clone the repository:
+        <pre><code>git clone https://github.com/yourusername/project-repo.git</code></pre>
+      </li>
+      <li>Navigate into the project directory:
+        <pre><code>cd project-repo</code></pre>
+      </li>
+      <li>Install the required dependencies:
+        <pre><code>npm install</code></pre>
+      </li>
+      <li>Start the backend server:
+        <pre><code>npm start</code></pre>
+      </li>
+    </ol>
+    <p>Your backend server should now be running at <code>http://localhost:3000</code>.</p>
+  </div>
 
   <div class="api-section">
     <h2>Ingredients API</h2>
