@@ -6,7 +6,7 @@
     <p>To get started with the backend project, follow these steps:</p>
     <ol>
       <li>Clone the repository:
-        <pre><code>git clone https://github.com/yourusername/project-repo.git</code></pre>
+        <pre><code>git clone https://github.com/AASani29/Team-Acceleration_Kuet-Hackathon.git</code></pre>
       </li>
       <li>Navigate into the project directory:
         <pre><code>cd project-repo</code></pre>
