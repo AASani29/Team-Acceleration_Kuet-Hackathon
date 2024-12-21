@@ -1,0 +1,40 @@
+Pancakes:
+Ingredients:
+- 2 cups flour
+- 1 cup milk
+- 2 eggs
+Instructions:
+Mix the ingredients and cook on a griddle.
+
+Chocolate Cake:
+Ingredients:
+- 2 cups flour
+- 1 cup sugar
+- 1/2 cup cocoa powder
+Instructions:
+Mix all ingredients, bake at 350°F for 30 minutes.
+
+Recipe: Pancakes
+Ingredients:
+- flour: 2 cups
+- milk: 1 cup
+Instructions:
+Mix all ingredients and cook on a griddle.
+
+
+Recipe: Cupcakes
+Ingredients:
+- flour: 2 cups
+- milk: 1 cup
+Instructions:
+Mix all ingredients and cook on a griddle.
+
+
+Recipe: Chocolate Cake
+Ingredients:
+- undefined: undefined undefined
+- undefined: undefined undefined
+- undefined: undefined undefined
+Instructions:
+Mix all ingredients and bake at 350°F for 30 minutes.
+
