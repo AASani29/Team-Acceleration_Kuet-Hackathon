@@ -1,47 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>API Documentation</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    h1, h2 {
-      color: #333;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 10px;
-      border-radius: 5px;
-    }
-    code {
-      color: #d6336c;
-    }
-    .api-section {
-      margin-bottom: 20px;
-    }
-    .api-section h2 {
-      color: #0069d9;
-    }
-    .api-section ul {
-      list-style-type: none;
-      padding-left: 0;
-    }
-    .api-section li {
-      padding: 10px 0;
-    }
-    .api-section .request, .api-section .response {
-      background-color: #f7f7f7;
-      padding: 10px;
-      margin: 5px 0;
-      border-radius: 5px;
-    }
-  </style>
-</head>
+
 <body>
   <h1>API Documentation</h1>
 
