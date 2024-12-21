@@ -195,21 +195,6 @@
     </ul>
   </div>
 
-  <div class="api-section">
-    <h2>Contributing</h2>
-    <p>Contributions are welcome! Please fork the repository and create a pull request with your changes.</p>
-    <ul>
-      <li>Fork the repository</li>
-      <li>Create your feature branch: <code>git checkout -b feature/YourFeature</code></li>
-      <li>Commit your changes: <code>git commit -m "Add some feature"</code></li>
-      <li>Push to the branch: <code>git push origin feature/YourFeature</code></li>
-      <li>Open a pull request</li>
-    </ul>
-  </div>
-
-  <div class="api-section">
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
-  </div>
+  
 </body>
 </html>
